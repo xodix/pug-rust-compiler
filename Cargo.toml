@@ -1,0 +1,2 @@
+[workspace]
+members = ["pug-html-compiler", "pug-scripts-compiler", "utils"]
