@@ -10,6 +10,14 @@ Now it tries to create a faster precompiled variety.
 
 Source files -> .MOPS + JSON -> Compiler -> HTML
 
+## Project structure
+
+pug-html-compiler - core pug -> html
+
+pug-scripts-compiler - procedural pug scripts compiler
+
+utils - general ascii and array pointer utilities
+
 ## Roadmap:
 
 ✅ Tag parsing
